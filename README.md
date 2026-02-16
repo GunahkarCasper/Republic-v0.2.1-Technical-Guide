@@ -16,7 +16,7 @@ sudo systemctl stop republicd
 Move to your binary directory and download the v0.2.1 release:
 ```bash
 cd /usr/local/bin
-sudo wget -O republicd_v0.2.1 [https://github.com/RepublicAI/networks/releases/download/v0.2.1/republicd-linux-amd64](https://github.com/RepublicAI/networks/releases/download/v0.2.1/republicd-linux-amd64)
+sudo wget -O republicd_v0.2.1 https://github.com/RepublicAI/networks/releases/download/v0.2.1/republicd-linux-amd64
 ```
 
 # SHA256 Checksum Verification ✅
